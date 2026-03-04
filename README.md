@@ -1,6 +1,6 @@
 # nextjs-scaffold
 
-As a freelance developer who builds a lot of SaaS MVPs, I start a lot of Next.js projects and found myself doing the same setup steps over and over. So I built this quick setup tool for myself. If there's interest, I'm happy to make it more flexible - feel free to open an issue or send a PR!
+When I start a new Next.js project, I often find myself doing the same setup steps over and over. So I built this quick setup tool to streamline the process a bit. If there's interest, I'm happy to make it more flexible - feel free to open an issue or send a PR!
 
 ## Demo
 
